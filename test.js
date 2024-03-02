@@ -1,4 +1,4 @@
-var numbers = [3, 1, 5, 9, 2, 6];
+var numbers = [3, 1,  9, 2, 6];
 
 
 var minValue = Math.min(...numbers);
